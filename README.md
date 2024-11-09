@@ -6,6 +6,7 @@ Full-stack MLOps project implementing a personal loan application interface. Use
 Development work is done via GitHub Codespaces.
 
 TODO:
-- [ ] EDA on lending data
+- [x] EDA on lending data
 - [ ] Design deployment blueprint
-- [ ] Train model on lending data using MLflow
+- [x] Train model on lending data
+- [x] Use MLFlow for model experiments

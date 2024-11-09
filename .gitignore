@@ -1,6 +1,8 @@
 *.txt
 *.csv
+*.db
 todo.md
 data/
 
 .ipynb_checkpoints/
+mlruns/*
